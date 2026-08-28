@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanoid CAD & Simulation"
+  short_description: "Plan and verify humanoid CAD/FEA via MCP"
+  default_prompt: "Use $humanoid-cad-simulation to plan this humanoid mechanical-design or simulation workflow, identify missing engineering inputs, and prepare an approval-gated execution plan."
